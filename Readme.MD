@@ -17,5 +17,7 @@ EnableDataBroadcast=1
 + Enter Options-Key Assignments in Prepar3D
 + Chose QMCP737C in Controller combobox.
 + Find REPEAT  and  ASSIGNMENT Button X ,and delete.
+
 4.Open driver and keep running.
+
 5.Enjoy
