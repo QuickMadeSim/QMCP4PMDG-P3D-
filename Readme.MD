@@ -13,7 +13,7 @@ PMDG737NGX/NGXu,777,747
 [SDK]
 EnableDataBroadcast=1
 + Same as NGXu :Prepar3D v4\PMDG\PMDG 737 NGXu\737NGXu_Options.ini
-3. Delete QMCP737C default joystick Key Assignments 
+3.Delete QMCP737C default joystick Key Assignments 
 + Enter Options-Key Assignments in Prepar3D
 + Chose QMCP737C in Controller combobox.
 + Find REPEAT  and  ASSIGNMENT Button X ,and delete.
